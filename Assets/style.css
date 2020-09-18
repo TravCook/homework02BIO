@@ -1,0 +1,66 @@
+h1 {
+  font-family: 'Lora', serif;
+  color: white;
+}
+h2{
+  font-family: 'Kufam', cursive;
+}
+
+.blue {
+  color: rgb(0, 8, 117);
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+span{
+  color: purple;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+#par1 span{
+  color:rgb(0, 8, 117);
+  font-size: 40px;
+}
+
+header{
+  padding: 5px;
+  text-align: center;background-color: rgb(41, 40, 40);
+}
+
+a {
+  color: red;
+}
+
+.container {
+  margin: 0 auto;
+  margin-top: 50px;
+  Width: 100%;
+}
+
+
+aside {
+  float: left;
+  width: 25%;
+}
+
+main {
+  float: left;
+  width: 42%;
+}
+
+.contact {
+  float: right;
+  width: 33%;
+}
+.clearfix::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+#par1{
+  font-family: 'Work Sans', sans-serif;
+}
