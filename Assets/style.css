@@ -16,7 +16,8 @@ header{
 }
 
 .responsive{
+  background-image: url(BabyTravis.jpg);
   width: 100%;
-  height: auto;
+  height: 400px;
 }
 
